@@ -1,0 +1,153 @@
+.home-desktop { 
+    background-color: rgba(90, 85, 85, 0.1);
+    
+    margin: 0px;
+  padding: 0px;
+}
+
+
+.desktop-title {
+    
+    display: flex;
+    align-items: center;
+    height: 80px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    
+
+  }
+
+.title { 
+    
+    color: red;
+    display: flex;   
+    font-family: "Clarkson",Helvetica,sans-serif;    
+    font-weight: 500;    
+    margin-right: 40px;
+    
+}
+
+.desktop-flex-row {
+
+
+    width: 100%;
+    -webkit-box-orient: horizontal;
+
+    flex-direction: row;
+    margin: 0;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    position: relative;
+
+    display: flex;
+
+}
+.singin-a { 
+    color: #166aea;
+    text-decoration:none ;
+}
+.singout-a { 
+    color: #166aea;
+    text-decoration:none ;
+}
+.signin { 
+    border: 2px solid #166aea;
+    border-radius: 100px;
+    padding: 0 36px;
+    color: #166aea;
+    font-size: 30px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    text-align: center;
+}
+
+.signout { 
+    border: 2px solid #166aea;
+    border-radius: 100px;
+    padding: 0 36px;
+    color: #166aea;
+    font-size: 30px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    text-align: center;
+}
+
+.signin-signout { 
+    display: inline-block;
+    
+    margin-bottom:20px;
+    padding: 0px 10px;
+    display: flex;
+    grid-gap: 16px;
+  
+
+}
+
+nav {
+    border: 1px;
+    margin: 0px;
+  padding: 0px;
+    color: rgb(236, 136, 136);
+    padding: 6px;
+    text-align: center;
+    
+}
+
+ 
+a {
+    text-decoration: center;
+    color: black;
+    font-size: 25px;
+    
+}
+
+
+.footer-copyright { 
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    margin-top: 14.8%;
+}
+
+
+.desktop-footer { 
+    background-color: #5792db;
+    
+}
+
+
+
+p { 
+    line-height: 1;
+    letter-spacing: normal;
+    font-family: "Open Sans","Noto Kufi Arabic","Arial",sans-serif;
+    font-size: 25px;
+    
+}
+
+
+.titlemiddle  {
+    font-size: medium;
+    text-align: right;
+    padding-right: 3%;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.textmiddle h2 { 
+    font-size: large;
+    text-align: right;
+    padding-right: 3%;
+    color: #3f4242;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.hospitalcolor a { 
+    color: #166aea;
+    font-size: 21px;
+}
+
+

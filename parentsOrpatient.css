@@ -1,0 +1,211 @@
+.desktop-title {
+    
+    display: flex;
+    align-items: center;
+    height: 80px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    
+
+  }
+
+.title { 
+    
+    color: red;
+    display: flex;   
+    font-family: "Clarkson",Helvetica,sans-serif;    
+    font-weight: 500;    
+    margin-right: 40px;
+    
+}
+
+.desktop-flex-row {
+
+
+    width: 100%;
+    -webkit-box-orient: horizontal;
+
+    flex-direction: row;
+    margin: 0;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    position: relative;
+
+    display: flex;
+
+}
+.singin-a { 
+    color: #166aea;
+    text-decoration:none ;
+}
+.singout-a { 
+    color: #166aea;
+    text-decoration:none ;
+}
+.signin { 
+    border: 2px solid #166aea;
+    border-radius: 100px;
+    padding: 0 36px;
+    color: #166aea;
+    font-size: 30px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+   
+}
+
+.signout { 
+    border: 2px solid #166aea;
+    border-radius: 100px;
+    padding: 0 36px;
+    color: #166aea;
+    font-size: 30px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    
+}
+
+.signin-signout { 
+    display: inline-block;
+    
+    margin-bottom:20px;
+    padding: 0px 10px;
+    display: flex;
+    grid-gap: 16px;
+  
+
+}
+
+nav {
+    border: 1px;
+    margin: 0px;
+  padding: 0px;
+    color: rgb(236, 136, 136);
+    padding: 6px;
+    text-align: center;
+    
+}
+ 
+a {
+    text-decoration: center;
+    color: black;
+    font-size: 25px;
+    
+}
+
+.home-desktop { 
+    background-color: rgba(90, 85, 85, 0.1);
+    
+    margin: 0px;
+  padding: 0px;
+}
+
+
+.middle-title { 
+    font-size: 6ex;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.form-text { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: xx-large;
+    text-align: center;
+    margin-right: 10px;
+    
+
+}
+
+.form-text2 { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: xx-large;
+    text-align: center;
+    margin-right: 80px;
+    
+
+}
+.form { 
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    
+}
+.clickhere { 
+    font-size: medium;
+    color: blue;
+    margin-left: 10% ;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+
+button {
+    width: 100%;
+    padding: 10px 0;
+    margin: 10px auto;
+    border-radius: 5px; 
+    border: none;
+    background: #1c87c9; 
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    }
+
+    button:hover {
+        background: #26a9e0;
+        }
+
+.form-minititle { 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.form-minititle2  { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: medium;
+    text-align: right;
+    margin-left: 2% ;
+}
+.clickhere2 { 
+    font-size: medium;
+    color: blue;
+    margin-left: 60% ;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+
+
+.ct2 { 
+    display: flex;
+    align-items: center;
+    position: relative;
+    
+}
+
+#name { 
+    text-align: right;
+}
+
+.footer-copyright { 
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    margin-top: 13.4%;
+  
+}
+
+
+.desktop-footer { 
+    background-color: #5792db;
+    
+}
+p { 
+    line-height: 1;
+    letter-spacing: normal;
+    font-family: "Open Sans","Noto Kufi Arabic","Arial",sans-serif;
+    font-size: 25px;
+    
+}

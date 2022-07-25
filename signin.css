@@ -1,0 +1,185 @@
+.home-desktop { 
+    background-color: rgba(90, 85, 85, 0.1);
+    
+    margin: 0px;
+  padding: 0px;
+}
+
+.desktop-title {
+    
+    display: flex;
+    align-items: center;
+    height: 80px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    
+
+  }
+
+.title { 
+    
+    color: red;
+    display: flex;   
+    font-family: "Clarkson",Helvetica,sans-serif;    
+    font-weight: 500;    
+    margin-right: 40px;
+    
+}
+
+.desktop-flex-row {
+
+
+    width: 100%;
+    -webkit-box-orient: horizontal;
+
+    flex-direction: row;
+    margin: 0;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    position: relative;
+
+    display: flex;
+
+}
+
+.signin { 
+    border: 2px solid #166aea;
+    border-radius: 100px;
+    padding: 0 36px;
+    color: #166aea;
+    font-size: 30px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+   
+}
+
+.signout { 
+    border: 2px solid #166aea;
+    border-radius: 100px;
+    padding: 0 36px;
+    color: #166aea;
+    font-size: 30px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    
+}
+.singin-a { 
+    color: #166aea;
+    text-decoration:none ;
+}
+.singout-a { 
+    color: #166aea;
+    text-decoration:none ;
+}
+
+.signin-signout { 
+    display: inline-block;
+    
+    margin-bottom:20px;
+    padding: 0px 10px;
+    display: flex;
+    grid-gap: 16px;
+  
+
+}
+
+
+nav {
+    border: 1px;
+    margin: 0px;
+  padding: 0px;
+    color: rgb(236, 136, 136);
+    padding: 6px;
+    text-align: center;
+    
+}
+ 
+a {
+    text-decoration: center;
+    color: black;
+    font-size: 25px;
+    
+}
+
+.footer-copyright { 
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    margin-top: 16.2%;
+  
+}
+
+
+.desktop-footer { 
+    background-color: #5792db;
+    
+}
+p { 
+    line-height: 1;
+    letter-spacing: normal;
+    font-family: "Open Sans","Noto Kufi Arabic","Arial",sans-serif;
+    font-size: 25px;
+    
+}
+
+
+
+
+
+.middle-title { 
+    font-size: 5.5ex;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.volright { 
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(186, 230, 121);
+}
+.volcenter { 
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(186, 230, 121);
+}
+.volleft { 
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(186, 230, 121);
+}
+
+
+.volbox { 
+    width: 41%;
+padding-left:28%;
+flex-direction: row;
+margin: 0%;
+justify-content: space-between;
+background-color: white;
+align-items: center;
+position: relative;
+display: flex;
+background-color: rgba(235, 222, 222, 0.1);
+}
+
+
+
+.imgbox { 
+    width: 47.9%;
+    padding-left: 25%;
+    flex-direction: row;
+    margin: 0;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    position: relative;
+    display: flex;
+    background-color: rgba(240, 225, 225, 0.1);
+}

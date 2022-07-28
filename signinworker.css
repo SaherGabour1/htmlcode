@@ -1,0 +1,223 @@
+.home-desktop { 
+    background-color: rgba(90, 85, 85, 0.1);
+    
+    margin: 0px;
+  padding: 0px;
+}
+
+
+.desktop-title {
+    
+    display: flex;
+    align-items: center;
+    height: 80px;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    
+    padding-bottom: 20px;
+    padding-right: 700px;
+    
+
+  }
+
+.title { 
+    
+    color: red;
+    display: flex;   
+    font-family: "Clarkson",Helvetica,sans-serif;    
+    font-weight: 500;    
+    margin-right: 40px;
+    text-align: center;
+    
+    
+}
+
+.desktop-flex-row {
+
+
+    width: 100%;
+    -webkit-box-orient: horizontal;
+
+    flex-direction: row;
+    margin: 0;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    position: relative;
+
+    display: flex;
+
+}
+
+nav {
+    border: 1px;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(236, 136, 136);
+  
+    text-align: center;
+    
+}
+
+ 
+a {
+    border: 4px solid #a9bad3;
+    border-radius: 200px;
+    padding: 0 10px;
+    color: rgb(47, 48, 119);
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+.footer-copyright { 
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    margin-top: 5%;
+  
+}
+
+
+.desktop-footer { 
+    background-color: #5792db;
+    
+}
+p { 
+    line-height: 1;
+    letter-spacing: normal;
+    font-family: "Open Sans","Noto Kufi Arabic","Arial",sans-serif;
+    font-size: 25px;
+    
+}
+
+
+
+
+
+.btn-button {
+
+    
+        text-align: right;
+        font-size: 25px;
+        cursor: pointer;
+        padding-right: 2%;
+       
+}
+
+
+.btn1 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    text-align: right;
+    padding: 0 95px;
+    border-radius: 9px;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+  }
+  
+  .btn1:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+ 
+  .btn2 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding: 0 87px;
+    border-radius: 9px;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+  }
+  
+  .btn2:hover {
+    background: #2196F3;
+    color: white;
+  }
+  
+ 
+  .btn3 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding: 0 36px;
+    border-radius: 9px;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+  }
+  
+  .btn3:hover {
+    background: #ff9800;
+    color: white;
+  }
+  
+  
+  .btn4 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding: 0 55px;
+    border-radius: 9px;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+  }
+  
+  .btn4:hover {
+    background: #f44336;
+    color: white;
+  }
+  
+  
+  .btn5 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding: 0 100px;
+    border-radius: 9px;
+    font-size: x-large;
+    color: black;
+  }
+  
+  .btn5:hover {
+    background: #0a0a0a;
+    color: white;
+  }
+
+.btn6 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding: 0 52px;
+    border-radius: 9px;
+    font-size: x-large;
+        color: rgb(0, 0, 0);
+}
+      
+.btn6:hover {
+    background: #a03997;
+    color: white;
+    }
+    
+ 
+.btn7 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding: 0 68px;
+    border-radius: 9px;
+    font-size: x-large;
+        color: rgb(0, 0, 0);
+}
+      
+.btn7:hover {
+    background: #5c2c54;
+    color: white;
+    }
+    
+
+
+.btn8 {
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding: 0 93px;
+    border-radius: 9px;
+    font-size: x-large;
+        color: rgb(0, 0, 0);
+}
+      
+.btn8:hover {
+    background: #504e4d;
+    color: white;
+    }
+    
+
+

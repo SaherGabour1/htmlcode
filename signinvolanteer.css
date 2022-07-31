@@ -75,7 +75,7 @@ a {
     text-align: center;
     color: white;
     font-weight: 400;
-    margin-top: 2%;
+    margin-top: 3.5%;
   
 }
 
@@ -97,24 +97,22 @@ p {
 
 
 .btn-button {
-     text-align: center;
-     display: flex;
-    
+        text-align: center;
+        display: flex;
         text-align: right;
         font-size: 25px;
         cursor: pointer;
-        padding-right: 2%;
-        padding-left: 0.9%;
-        
+        padding-left: 6%;
+        padding-right: 6%;
        
 }
 
 
 .btn1 {
-    
+    width: 300%;
     font-family: "Clarkson",Helvetica,sans-serif;
-    text-align: right;
-    padding: 0 95px;
+    text-align: center;
+    padding: 0 70px;
     border-radius: 9px;
     font-size: x-large;
     color: rgb(0, 0, 0);
@@ -127,8 +125,9 @@ p {
   
  
   .btn2 {
+    width: 300%;
     font-family: "Clarkson",Helvetica,sans-serif;
-    padding: 0 87px;
+    padding: 0 60px;
     border-radius: 9px;
     font-size: x-large;
     color: rgb(0, 0, 0);
@@ -141,8 +140,9 @@ p {
   
  
   .btn3 {
+    width: 300%;
     font-family: "Clarkson",Helvetica,sans-serif;
-    padding: 0 36px;
+    padding: 0 70px;
     border-radius: 9px;
     font-size: x-large;
     color: rgb(0, 0, 0);
@@ -155,8 +155,10 @@ p {
   
   
   .btn4 {
+   
+    width: 300%;
     font-family: "Clarkson",Helvetica,sans-serif;
-    padding: 0 55px;
+    padding: 0 108px;
     border-radius: 9px;
     font-size: x-large;
     color: rgb(0, 0, 0);
@@ -169,8 +171,10 @@ p {
   
   
   .btn5 {
+    
+    width: 300%;
     font-family: "Clarkson",Helvetica,sans-serif;
-    padding: 0 100px;
+    padding: 0 83px;
     border-radius: 9px;
     font-size: x-large;
     color: black;
@@ -180,53 +184,7 @@ p {
     background: #0a0a0a;
     color: white;
   }
-
-.btn6 {
-    font-family: "Clarkson",Helvetica,sans-serif;
-    padding: 0 52px;
-    border-radius: 9px;
-    font-size: x-large;
-        color: rgb(0, 0, 0);
-}
-      
-.btn6:hover {
-    background: #a03997;
-    color: white;
-    }
-    
  
-.btn7 {
-    font-family: "Clarkson",Helvetica,sans-serif;
-    padding: 0 68px;
-    border-radius: 9px;
-    font-size: x-large;
-        color: rgb(0, 0, 0);
-}
-      
-.btn7:hover {
-    background: #5c2c54;
-    color: white;
-    }
-    
-
-
-.btn8 {
-    font-family: "Clarkson",Helvetica,sans-serif;
-    padding: 0 93px;
-    border-radius: 9px;
-    font-size: x-large;
-        color: rgb(0, 0, 0);
-}
-      
-.btn8:hover {
-    background: #504e4d;
-    color: white;
-    }
-
-
-.photomid { 
-  text-align: center;
-}
-    
-
-
+  .photomid { 
+    text-align: center;
+  }
